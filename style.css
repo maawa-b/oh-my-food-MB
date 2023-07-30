@@ -36,3 +36,8 @@ main .city {
 main .city i {
     font-size: 1.5rem;
 }
+/*EXPOLRER*/
+.explorer {
+    display: flex;
+    flex-direction: column
+}
