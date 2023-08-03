@@ -64,7 +64,7 @@ main .city i {
 
 .explorer button:hover {
   transform: scale(1.02);
-  /*opacity: O.9;*/
+  opacity: O, 9;
 }
 
 /*# sourceMappingURL=style.css.map */
